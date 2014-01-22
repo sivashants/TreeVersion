@@ -1,0 +1,2 @@
+serviceClass: fr.shanthan.client.GreetingService
+path: D669BA27341C2C869ECE4A373F9C8F40.gwt.rpc
